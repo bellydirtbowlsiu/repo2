@@ -1,1 +1,1 @@
-print("Hello! Im not Jeongbin")
+print("Resloved")
